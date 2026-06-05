@@ -11,11 +11,11 @@ body {
 }
 
 .stars__star {
-  background-image: url('../images/star.svg');
   width: 16px;
   height: 16px;
   background-repeat: no-repeat;
   margin-right: 4px;
+  background-image: url('../images/star.svg');
 }
 
 .stars__star:last-child {
